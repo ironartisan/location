@@ -1,4 +1,4 @@
-#include "measuredata.h"
+#include "MeasureData.h"
 using namespace std;
 /*
 	MeasureData
